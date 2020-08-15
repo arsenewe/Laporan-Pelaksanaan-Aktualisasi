@@ -5,7 +5,7 @@ description: >-
   secara komprehensif.
 ---
 
-# HALAMAN MUKA
+# PENDAHULUAN
 
 ## Getting Super Powers
 

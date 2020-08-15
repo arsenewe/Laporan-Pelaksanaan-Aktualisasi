@@ -1,5 +1,8 @@
 # Table of contents
+
+* [HALAMAN MUKA](README.md)
 * [COVER](depan.md)
-* [PENDAHULUAN](README.md)
-* [CARA PENGGUNAAN](cara-penggunaan.md)
-    * [Visi dan Misi](visimisi.md)
+* [PENDAHULUAN](readme.md)
+* [CARA PENGGUNAAN](cara-penggunaan/README.md)
+  * [Visi dan Misi](cara-penggunaan/visimisi.md)
+
