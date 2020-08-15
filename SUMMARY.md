@@ -1,4 +1,4 @@
 # Table of contents
 
-* [PENGENALAN FITUR](README.md)
+* [PENDAHULUAN](README.md)
 

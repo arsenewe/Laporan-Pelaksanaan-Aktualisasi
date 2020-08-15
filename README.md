@@ -1,13 +1,10 @@
-
-
-# PENDAHULUAN
-
 ---
 description: >-
-  Pada bab ini, fitur-fitur sistem pengiriman jadwal tugas akhir akan dijelaskan
-  secara lengkap. Tujuan dari penjelasan ini adalah supaya pengguna sistem
-  memahami fitur-fitur yang tersedia.
+  Pada bab ini akan dijelaskan deskripsi singkat tentang aplikasi sistem
+  pengiriman jadwal Tugas Akhir
 ---
+
+# PENDAHULUAN
 
 ## Getting Super Powers
 
