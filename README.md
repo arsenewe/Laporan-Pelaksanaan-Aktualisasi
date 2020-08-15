@@ -1,7 +1,7 @@
 ---
 description: >-
   Pada bab ini akan dijelaskan deskripsi singkat tentang aplikasi sistem
-  pengiriman jadwal Tugas Akhir
+  pengiriman jadwal Tugas Akhir. Setiap menu yang tersedia akan dijelaskan secara komprehensif.
 ---
 
 # PENDAHULUAN
