@@ -8,7 +8,7 @@ description: >-
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a super hero is a fairly straight forward process
 
 ```
 $ give me super-powers
